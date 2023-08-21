@@ -1,0 +1,22 @@
+.navLink {
+    color: #939d9e;
+    margin: 10px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.active {
+    color: #F9F6EE
+}
+
+.cardContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.cardLayout {
+    margin: 23px;
+    width: 18rem;
+    display: flex;
+    flex-direction: column;
+}
